@@ -19,6 +19,11 @@ section {
     padding-left: 5%;
 }
 
+.top-baner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
 .half-width img {
     width: 80%;
 }
@@ -30,4 +35,10 @@ section {
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
